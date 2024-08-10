@@ -577,6 +577,7 @@ Here are the UUIDs of all these assets we uploaded to CVR:
 | `bf5b7d18-eb8d-4957-aa7c-fc464ef5856e` | Erlenmeyer flask | JOELwindows7 | 🧪. |
 | `c20004a3-83c1-4a31-a4c8-4409bae3f36e` | Labu flask | JOELwindows7 | 🧪. |
 | `13181c32-55b5-4ead-bf26-0cfdb9a9117a` | Utah Teapot | JOELwindows7 | 🫖. |
+| `36ca3016-a310-4e04-8953-141a21e27e71` | Complementary Teacup | JOELwindows7 | 🍵🫖. |
 | `140ca808-7a9a-49c3-9296-3f49127f04ea` | Sex Dice Tutorial card | JOELwindows7 | **NSFW** How to DIY Lewd dice. |
 | `cae8af07-97be-4595-a5a8-1114caf6eec5` | Soklong Clock | JOELwindows7 | **Experimental** Aesthetically minimalist clock |
 | `d2fe9f84-0ee1-49aa-93b0-574040c17731` | Laron P7-K | JOELwindows7 | **Experimental** Moving Head Stage Light |

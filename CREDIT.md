@@ -9851,3 +9851,13 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://youtu.be/bg5C_g4iYZo?si=tR4sWMKA0C3uCqAm blender vase
 - https://youtube.com/shorts/ag9XI-ucoO4?si=gSJM7wK8HpvbM53i ye BlenderVitals
 - https://youtu.be/QRIiBnFXVD8?si=535aihQj6G9NKEIn haah sequence vase
+- Ben0258. make the teapot spin when clicked. thancc.
+- https://feedback.abinteractive.net/p/prop-control-list
+- https://feedback.abinteractive.net/p/list-of-all-props-in-instance
+- https://forums.abinteractive.net/d/369-list-of-all-props-in-instance
+- https://ebird.org/species/eurbla
+- https://discord.com/channels/410126604237406209/795882566968279091/1271526802736550040
+- https://discord.com/channels/410126604237406209/1240763673346183279/1271529648517550091
+- https://discord.com/channels/410126604237406209/588350685255565344/1271603643933786235
+- Occulus firmware co
+- https://dj.studio/blog/music-visualizer
