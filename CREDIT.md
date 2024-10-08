@@ -9861,3 +9861,6 @@ https://youtu.be/qzhuWRQWK5I?si=PygoI274O32LWD5a
 - https://discord.com/channels/410126604237406209/588350685255565344/1271603643933786235
 - Occulus firmware co
 - https://dj.studio/blog/music-visualizer
+- https://github.com/Cobertos/unitypackage_extractor
+- https://learn.microsoft.com/id-id/windows-hardware/drivers/debugger/
+- https://discussions.unity.com/t/unity-crashes-on-play-due-to-license/804932/15
